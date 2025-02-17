@@ -13,7 +13,7 @@ const CvPdf = () => {
     return (
         <div>
             <button onClick={onClickButton} className="underline">
-                Downlaod
+                Download
             </button>
         </div>
     )
